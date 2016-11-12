@@ -1,6 +1,6 @@
 # Menghitung-Volume
 
-<img src="https://drive.google.com/uc?export=view&id=0B7B9myqe35ONOHF1MUlFdEV4VGs">
+![](https://drive.google.com/uc?export=view&id=0B7B9myqe35ONTVAwWG5XTEp5Wkk)
 
 <img src = "https://drive.google.com/uc?export=view&id=0B7B9myqe35ONOHF1MUlFdEV4VGs">
 ![](https://drive.google.com/uc?export=view&id=0B7B9myqe35ONZWFMUkZUZkEyTWs)
