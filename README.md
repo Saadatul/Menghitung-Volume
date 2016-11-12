@@ -1,13 +1,11 @@
 # Menghitung-Volume
 
 ![](https://drive.google.com/uc?export=view&id=0B7B9myqe35ONTVAwWG5XTEp5Wkk)
-
-<img src = "https://drive.google.com/uc?export=view&id=0B7B9myqe35ONOHF1MUlFdEV4VGs">
-![](https://drive.google.com/uc?export=view&id=0B7B9myqe35ONZWFMUkZUZkEyTWs)
-![](https://drive.google.com/uc?export=view&id=0B7B9myqe35ONMHpBQy1GWUNUaWc)
-![](https://drive.google.com/uc?export=view&id=0B7B9myqe35ONTGpTbzktaElSbnc)
-![](https://drive.google.com/uc?export=view&id=0B7B9myqe35ONQkJETUR5ZjZFOUU)
-![](https://drive.google.com/uc?export=view&id=0B7B9myqe35ONYmJ5WWJtcy16OEk)
+![](https://drive.google.com/uc?export=view&id=0B7B9myqe35ONaGZqZ0RSbHpianc)
+![](https://drive.google.com/uc?export=view&id=0B7B9myqe35ONRFhaSFhLNzZZajQ)
+![](https://drive.google.com/uc?export=view&id=0B7B9myqe35ONVlRLRUh6VE10ZTA)
+![](https://drive.google.com/uc?export=view&id=0B7B9myqe35ONdzBJS2xPTTFhVTA)
+![](https://drive.google.com/uc?export=view&id=0B7B9myqe35ONdGN6OWdKZGZhMnc)
 
 Nama : Sa'adatul Sholehah <br>
 Kelas : XIRPL6 <br>
